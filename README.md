@@ -1,4 +1,4 @@
-Pour récupérer le projet, il faut cloner le dépôt git depuis le terminal.
+Pour récupérer le projet, il faut cloner le dépôt git depuis le terminal avec cette commande: git clone git@github.com:Cholo1393/morpion.git.
 
 Ensuite, toujours dans le terminal, il faut taper la commande suivante : "code ." qui vous redirigera vers Visual Studio Code.
 
